@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoctoRave</string>
+    <string name="Open_Drawer">Open_Drawer</string>
+    <string name="Close_Drawer">Close_Drawer</string>
+    <string name="DB_USERS">Users</string>
+    <string name="DB_USERS_PATIENTS">Patients</string>
+
+
+    <string name="IllnessTxt">Suffering from %s</string>
+    <string name="AgeTxt">%d years old, %s</string>
+    <string name="AppointTxt">Appointment on %s</string>
+</resources>

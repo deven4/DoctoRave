@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352513679901",
+    "project_id": "doctorave-905c3",
+    "storage_bucket": "doctorave-905c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352513679901:android:5bc0b1eb510a147ac91cf4",
+        "android_client_info": {
+          "package_name": "com.example.doctorave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352513679901-49a6m02s3l1c5p4nrnqm2freg0gr8tvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaUJoAhMGsaEpTvib8vzUJz2i5sBNeAjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352513679901-49a6m02s3l1c5p4nrnqm2freg0gr8tvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

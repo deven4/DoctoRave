@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F94E94</color>
+    <color name="colorPrimaryDark">#DB4582</color>
+    <color name="colorAccent">#416FAB</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="SecondaryLightBlack">#8A000000</color>    <!--54% Alpha -->
+    <color name="DisabledText">#61000000</color>           <!--38% Alpha -->
+    <color name="DividerLightBlack">#1F000000</color>
+    <color name="LightWhite">#0D000000</color>
+    <color name="LightBlack">#4D000000</color>
+    <color name="ShimmerBG">#bfbebf</color>
+</resources>
